@@ -24,22 +24,24 @@
         <processorPath useClasspath="true" />
         <module name="goshop-cms-rest" />
         <module name="goshop-commons" />
+        <module name="goshop-commons-attachment" />
         <module name="goshop-commons-context" />
         <module name="goshop-commons-solr" />
         <module name="goshop-commons-web" />
-        <module name="goshop-manager" />
+        <module name="goshop-manager-interface" />
+        <module name="goshop-manager-mapper" />
+        <module name="goshop-manager-pojo" />
+        <module name="goshop-manager-security" />
+        <module name="goshop-manager-service" />
+        <module name="goshop-manager-web" />
         <module name="goshop-parent" />
+        <module name="goshop-partal-interface" />
         <module name="goshop-portal" />
         <module name="goshop-redis" />
         <module name="goshop-seller" />
+        <module name="goshop-seller-interface" />
+        <module name="goshop-seller-web" />
         <module name="goshop-wenchat" />
-      </profile>
-      <profile default="false" name="Annotation profile for goshop-parent" enabled="true">
-        <sourceOutputDir name="../../goshop-commons-attachment/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../goshop-commons-attachment/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="goshop-commons-attachment" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -50,10 +52,22 @@
       <module name="goshop-commons-solr" target="1.5" />
       <module name="goshop-commons-web" target="1.5" />
       <module name="goshop-manager" target="1.5" />
+      <module name="goshop-manager-interface" target="1.5" />
+      <module name="goshop-manager-mapper" target="1.5" />
+      <module name="goshop-manager-pojo" target="1.5" />
+      <module name="goshop-manager-security" target="1.5" />
+      <module name="goshop-manager-service" target="1.5" />
+      <module name="goshop-manager-web" target="1.5" />
       <module name="goshop-parent" target="1.7" />
+      <module name="goshop-partal-interface" target="1.5" />
       <module name="goshop-portal" target="1.5" />
+      <module name="goshop-portal-interface" target="1.5" />
+      <module name="goshop-portal-rest" target="1.5" />
+      <module name="goshop-portal-web" target="1.5" />
       <module name="goshop-redis" target="1.5" />
       <module name="goshop-seller" target="1.5" />
+      <module name="goshop-seller-interface" target="1.5" />
+      <module name="goshop-seller-web" target="1.5" />
       <module name="goshop-wenchat" target="1.5" />
       <module name="sd" target="1.5" />
       <module name="ss" target="1.5" />

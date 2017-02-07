@@ -2,7 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/goshop-cms-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goshop-manager" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/goshop-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goshop-parent/goshop-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goshop-parent/goshop-commons-attachment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goshop-parent/goshop-commons-context" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goshop-parent/goshop-commons-solr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goshop-parent/goshop-redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/goshop-seller" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/goshop-wenchat" charset="UTF-8" />
   </component>

@@ -9,10 +9,19 @@
       <module fileurl="file://$PROJECT_DIR$/goshop-parent/goshop-commons-solr/goshop-commons-solr.iml" filepath="$PROJECT_DIR$/goshop-parent/goshop-commons-solr/goshop-commons-solr.iml" />
       <module fileurl="file://$PROJECT_DIR$/goshop-parent/goshop-commons-web/goshop-commons-web.iml" filepath="$PROJECT_DIR$/goshop-parent/goshop-commons-web/goshop-commons-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/goshop-manager/goshop-manager.iml" filepath="$PROJECT_DIR$/goshop-manager/goshop-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop-manager/goshop-manager-interface/goshop-manager-interface.iml" filepath="$PROJECT_DIR$/goshop-manager/goshop-manager-interface/goshop-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/goshop-manager-mapper.iml" filepath="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/goshop-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/goshop-manager-pojo.iml" filepath="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/goshop-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop-manager/goshop-manager-security/goshop-manager-security.iml" filepath="$PROJECT_DIR$/goshop-manager/goshop-manager-security/goshop-manager-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop-manager/goshop-manager-service/goshop-manager-service.iml" filepath="$PROJECT_DIR$/goshop-manager/goshop-manager-service/goshop-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/goshop-manager-web.iml" filepath="$PROJECT_DIR$/goshop-manager/goshop-manager-web/goshop-manager-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/goshop-parent/goshop-parent.iml" filepath="$PROJECT_DIR$/goshop-parent/goshop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop-partal-interface/goshop-partal-interface.iml" filepath="$PROJECT_DIR$/goshop-partal-interface/goshop-partal-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/goshop-portal/goshop-portal.iml" filepath="$PROJECT_DIR$/goshop-portal/goshop-portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/goshop-parent/goshop-redis/goshop-redis.iml" filepath="$PROJECT_DIR$/goshop-parent/goshop-redis/goshop-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/goshop-seller/goshop-seller.iml" filepath="$PROJECT_DIR$/goshop-seller/goshop-seller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop-seller/goshop-seller-interface/goshop-seller-interface.iml" filepath="$PROJECT_DIR$/goshop-seller/goshop-seller-interface/goshop-seller-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goshop-seller/goshop-seller-web/goshop-seller-web.iml" filepath="$PROJECT_DIR$/goshop-seller/goshop-seller-web/goshop-seller-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/goshop-wenchat/goshop-wenchat.iml" filepath="$PROJECT_DIR$/goshop-wenchat/goshop-wenchat.iml" />
     </modules>
   </component>

@@ -8,5 +8,31 @@
     <artifactId>com.lcc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <parent>
+        <artifactId>goshop-parent</artifactId>
+        <groupId>com.lcc</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.goshop</groupId>
+    <artifactId>goshop-manager</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>goshop-manager-interface</module>
+        <module>goshop-manager-pojo</module>
+        <module>goshop-manager-mapper</module>
+        <module>goshop-manager-security</module>
+        <module>goshop-manager-service</module>
+        <module>goshop-manager-web</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.lcc</groupId>
+            <artifactId>goshop-commons</artifactId>
+            <version>${goshop.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>

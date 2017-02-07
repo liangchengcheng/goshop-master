@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -15,6 +18,18 @@
         <option value="$PROJECT_DIR$/goshop-commons-context/pom.xml" />
         <option value="$PROJECT_DIR$/goshop-commons-attachment/pom.xml" />
         <option value="$PROJECT_DIR$/goshop-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager-security/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-partal-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-portal-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-portal-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-seller-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-seller-web/pom.xml" />
       </list>
     </option>
   </component>

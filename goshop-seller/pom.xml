@@ -14,7 +14,32 @@
     <artifactId>com.lcc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>goshop-seller-interface</module>
+        <module>goshop-seller-web</module>
+    </modules>
+
     <dependencies>
+        <dependency>
+            <groupId>com.lcc</groupId>
+            <artifactId>goshop-manager-security</artifactId>
+            <version>${goshop.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.lcc</groupId>
+            <artifactId>goshop-manager-mapper</artifactId>
+            <version>${goshop.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.lcc</groupId>
+            <artifactId>goshop-manager-interface</artifactId>
+            <version>${goshop.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.lcc</groupId>
+            <artifactId>goshop-commons-context</artifactId>
+            <version>${goshop.version}</version>
+        </dependency>
 
         <dependency>
             <groupId>com.alibaba</groupId>
