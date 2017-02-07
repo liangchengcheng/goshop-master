@@ -33,7 +33,7 @@
     <bytecodeTargetLevel>
       <module name="goshop-cms-rest" target="1.5" />
       <module name="goshop-manager" target="1.5" />
-      <module name="goshop-parent" target="1.5" />
+      <module name="goshop-parent" target="1.7" />
       <module name="goshop-portal" target="1.5" />
       <module name="goshop-seller" target="1.5" />
       <module name="goshop-wenchat" target="1.5" />
