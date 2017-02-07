@@ -15,16 +15,6 @@
 
 
     <dependencies>
-        <dependency>
-            <groupId>com.goshop</groupId>
-            <artifactId>goshop-manager-service</artifactId>
-            <version>${goshop.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.goshop</groupId>
-            <artifactId>goshop-redis</artifactId>
-            <version>${goshop.version}</version>
-        </dependency>
         <!-- Spring -->
         <dependency>
             <groupId>org.springframework</groupId>

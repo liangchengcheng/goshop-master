@@ -23,20 +23,41 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="goshop-cms-rest" />
+        <module name="goshop-commons" />
+        <module name="goshop-commons-context" />
+        <module name="goshop-commons-solr" />
+        <module name="goshop-commons-web" />
         <module name="goshop-manager" />
         <module name="goshop-parent" />
         <module name="goshop-portal" />
+        <module name="goshop-redis" />
         <module name="goshop-seller" />
         <module name="goshop-wenchat" />
+      </profile>
+      <profile default="false" name="Annotation profile for goshop-parent" enabled="true">
+        <sourceOutputDir name="../../goshop-commons-attachment/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../goshop-commons-attachment/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="goshop-commons-attachment" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="goshop-cms-rest" target="1.5" />
+      <module name="goshop-commons" target="1.5" />
+      <module name="goshop-commons-attachment" target="1.5" />
+      <module name="goshop-commons-context" target="1.5" />
+      <module name="goshop-commons-solr" target="1.5" />
+      <module name="goshop-commons-web" target="1.5" />
       <module name="goshop-manager" target="1.5" />
       <module name="goshop-parent" target="1.7" />
       <module name="goshop-portal" target="1.5" />
+      <module name="goshop-redis" target="1.5" />
       <module name="goshop-seller" target="1.5" />
       <module name="goshop-wenchat" target="1.5" />
+      <module name="sd" target="1.5" />
+      <module name="ss" target="1.5" />
+      <module name="tsx" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

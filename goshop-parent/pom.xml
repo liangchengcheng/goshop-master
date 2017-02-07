@@ -8,6 +8,15 @@
     <artifactId>goshop-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>goshop-commons</module>
+        <module>goshop-commons-attachment</module>
+        <module>goshop-commons-context</module>
+        <module>goshop-commons-solr</module>
+        <module>goshop-commons-web</module>
+        <module>goshop-redis</module>
+    </modules>
+
     <!-- 集中定义依赖版本号 -->
     <properties>
         <java.version>1.7</java.version>

@@ -9,6 +9,12 @@
         <option value="$PROJECT_DIR$/goshop-portal/pom.xml" />
         <option value="$PROJECT_DIR$/goshop-seller/pom.xml" />
         <option value="$PROJECT_DIR$/goshop-wenchat/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-commons-solr/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-commons-web/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-commons-context/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-commons-attachment/pom.xml" />
+        <option value="$PROJECT_DIR$/goshop-redis/pom.xml" />
       </list>
     </option>
   </component>
@@ -22,7 +28,7 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" assert-keyword="false" jdk-15="false">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" assert-keyword="false" jdk-15="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
