@@ -12,18 +12,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="Maven: redis.clients:jedis:2.7.3" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-aop:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-aspects:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-beans:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-context-support:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-context:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-core:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-expression:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-jdbc:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-test:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-tx:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-web:4.1.6.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-webmvc:4.1.6.RELEASE" level="project" />
   </component>
 </module>
