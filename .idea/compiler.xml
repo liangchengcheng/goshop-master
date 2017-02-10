@@ -28,6 +28,7 @@
         <module name="goshop-commons-context" />
         <module name="goshop-commons-solr" />
         <module name="goshop-commons-web" />
+        <module name="goshop-manager" />
         <module name="goshop-manager-interface" />
         <module name="goshop-manager-mapper" />
         <module name="goshop-manager-pojo" />
