@@ -3,7 +3,6 @@ package com.lcc.goshop.manager.i;
 import com.lcc.goshop.manager.pojo.Permission;
 import com.lcc.goshop.manager.pojo.Role;
 import com.lcc.goshop.manager.pojo.User;
-
 import java.util.List;
 
 /**
