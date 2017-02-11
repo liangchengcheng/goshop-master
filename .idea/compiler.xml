@@ -57,7 +57,7 @@
       <module name="goshop-manager-mapper" target="1.5" />
       <module name="goshop-manager-pojo" target="1.5" />
       <module name="goshop-manager-security" target="1.5" />
-      <module name="goshop-manager-service" target="1.5" />
+      <module name="goshop-manager-service" target="1.7" />
       <module name="goshop-manager-web" target="1.5" />
       <module name="goshop-parent" target="1.7" />
       <module name="goshop-partal-interface" target="1.5" />
