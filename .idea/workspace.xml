@@ -62,117 +62,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MemberMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/MemberMapper.java">
+      <file leaf-file-name="StoreMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="-871">
+              <caret line="639" column="61" selection-start-line="639" selection-start-column="61" selection-end-line="639" selection-end-column="61" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1486785881000" expanded="true" signature="5674:5855" ph="select , fro... " />
+                <marker date="1486785881000" expanded="true" signature="5950:6023" ph="delete from " />
+                <marker date="1486785881000" expanded="true" signature="6131:8847" ph="insert into gs_store... " />
+                <marker date="1486785881000" expanded="true" signature="19747:26223" ph="update gs_st... " />
+                <marker date="1486785881000" expanded="true" signature="26352:29239" ph="update gs_st... " />
+                <marker date="1486785881000" expanded="true" signature="29350:31871" ph="update gs_st... " />
+                <marker date="1486785881000" expanded="true" signature="31986:32113" ph="select from gs_store" />
+                <marker date="1486785881000" expanded="true" signature="32190:32263" ph="select from gs_store" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PermissionMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/PermissionMapper.java">
+      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-181">
+              <caret line="262" column="56" selection-start-line="262" selection-start-column="56" selection-end-line="262" selection-end-column="56" />
+              <folding>
+                <marker date="1486786750000" expanded="true" signature="3201:3314" ph="select from gs_user" />
+                <marker date="1486786750000" expanded="true" signature="3406:3466" ph="delete from " />
+                <marker date="1486786750000" expanded="true" signature="3604:4223" ph="insert into gs_user... " />
+                <marker date="1486786750000" expanded="true" signature="7311:8905" ph="update gs_us... " />
+                <marker date="1486786750000" expanded="true" signature="9015:9701" ph="update gs_us... " />
+                <marker date="1486786750000" expanded="true" signature="9807:9935" ph="select from gs_user" />
+                <marker date="1486786750000" expanded="true" signature="10049:10335" ph="SELECT u.*,r... gs_user" />
+                <marker date="1486786750000" expanded="true" signature="10468:10796" ph="SELECT p.* F... gs_user" />
+                <marker date="1486786750000" expanded="true" signature="10900:11002" ph="SELECT count... gs_user" />
+                <marker date="1486786750000" expanded="true" signature="11110:11799" ph="update gs_us... " />
+                <marker date="1486786750000" expanded="true" signature="11910:12132" ph="SELECT r.* F... gs_user" />
+                <marker date="1486786750000" expanded="true" signature="12209:12433" ph="SELECT count... gs_user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserRoleMapper.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserRoleMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RoleMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/RoleMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StoreClassMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreClassMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StoreGoodsClassMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreGoodsClassMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StoreGradeMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreGradeMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StoreJoinMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreJoinMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StoreMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserRoleMapper.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserRoleMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1486786895000" expanded="true" signature="532:633" ph="insert into gs_user_role... " />
+                <marker date="1486786895000" expanded="true" signature="744:1233" ph="insert into gs_user_role... " />
+                <marker date="1486786895000" expanded="true" signature="1353:1473" ph="select * fro... gs_user_role" />
+                <marker date="1486786895000" expanded="true" signature="1534:1636" ph="delete from " />
               </folding>
             </state>
           </provider>
@@ -201,26 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/StoreGoodsClass.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/StoreGrade.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/StoreJoin.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/StoreWithBLOBs.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/AlbumClass.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/AlbumPic.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/ArticleLangInfo.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/ArticleLangMain.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/CmsArticle.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/CmsArticleClass.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/CmsArticleWithBLOBs.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/CmsSlide.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/FindPassword.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/GoodsClass.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/StoreClass.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/model/JsonManagementClass.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/model/JsonManagement.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/AdminService.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/AlbumPicService.java" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/ArticleLangService.java" />
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/CmsArticleClassService.java" />
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/CmsArticleService.java" />
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/CmsSlideService.java" />
@@ -252,6 +173,26 @@
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreMapper.java" />
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserRoleMapper.java" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/AlbumPicMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/AlbumClassMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/ArticleLangInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/ArticleLangMainMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/CmsArticleClassMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/CmsArticleMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/CmsSlideMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/FindPasswordMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/GoodsClassMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/GoodsTypeMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/MemberMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/PermissionMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/RoleMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreClassMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreGoodsClassMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreGradeMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreJoinMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserRoleMapper.xml" />
       </list>
     </option>
   </component>
@@ -272,7 +213,7 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="150" />
+    <option name="x" value="181" />
     <option name="y" value="30" />
     <option name="width" value="1240" />
     <option name="height" value="728" />
@@ -872,15 +813,15 @@
       <workItem from="1486392716827" duration="1506000" />
       <workItem from="1486428299917" duration="1630000" />
       <workItem from="1486431991355" duration="32691000" />
-      <workItem from="1486641297532" duration="8187000" />
+      <workItem from="1486641297532" duration="12732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44014000" />
+    <option name="totallyTimeSpent" value="48559000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="150" y="30" width="1240" height="728" extended-state="0" />
+    <frame x="181" y="30" width="1240" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -934,783 +875,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/StoreJoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5939">
-          <caret line="486" column="1" selection-start-line="486" selection-start-column="1" selection-end-line="486" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2010#2011#0" expanded="false" />
-            <element signature="e#2041#2042#0" expanded="false" />
-            <element signature="e#2087#2088#0" expanded="false" />
-            <element signature="e#2127#2128#0" expanded="false" />
-            <element signature="e#2164#2165#0" expanded="false" />
-            <element signature="e#2197#2198#0" expanded="false" />
-            <element signature="e#2249#2250#0" expanded="false" />
-            <element signature="e#2328#2329#0" expanded="false" />
-            <element signature="e#2366#2367#0" expanded="false" />
-            <element signature="e#2400#2401#0" expanded="false" />
-            <element signature="e#2577#2578#0" expanded="false" />
-            <element signature="e#2614#2615#0" expanded="false" />
-            <element signature="e#2812#2813#0" expanded="false" />
-            <element signature="e#2855#2856#0" expanded="false" />
-            <element signature="e#3075#3076#0" expanded="false" />
-            <element signature="e#3110#3111#0" expanded="false" />
-            <element signature="e#3299#3300#0" expanded="false" />
-            <element signature="e#3342#3343#0" expanded="false" />
-            <element signature="e#3531#3532#0" expanded="false" />
-            <element signature="e#3578#3579#0" expanded="false" />
-            <element signature="e#3770#3771#0" expanded="false" />
-            <element signature="e#3805#3806#0" expanded="false" />
-            <element signature="e#3986#3987#0" expanded="false" />
-            <element signature="e#4022#4023#0" expanded="false" />
-            <element signature="e#4208#4209#0" expanded="false" />
-            <element signature="e#4244#4245#0" expanded="false" />
-            <element signature="e#4438#4439#0" expanded="false" />
-            <element signature="e#4482#4483#0" expanded="false" />
-            <element signature="e#4717#4718#0" expanded="false" />
-            <element signature="e#4762#4763#0" expanded="false" />
-            <element signature="e#4998#4999#0" expanded="false" />
-            <element signature="e#5041#5042#0" expanded="false" />
-            <element signature="e#5111#5112#0" expanded="false" />
-            <element signature="e#5175#5176#0" expanded="false" />
-            <element signature="e#5218#5219#0" expanded="false" />
-            <element signature="e#5259#5260#0" expanded="false" />
-            <element signature="e#5325#5326#0" expanded="false" />
-            <element signature="e#5385#5386#0" expanded="false" />
-            <element signature="e#5426#5427#0" expanded="false" />
-            <element signature="e#5463#5464#0" expanded="false" />
-            <element signature="e#5672#5673#0" expanded="false" />
-            <element signature="e#5726#5727#0" expanded="false" />
-            <element signature="e#6005#6006#0" expanded="false" />
-            <element signature="e#6044#6045#0" expanded="false" />
-            <element signature="e#6258#6259#0" expanded="false" />
-            <element signature="e#6307#6308#0" expanded="false" />
-            <element signature="e#6560#6561#0" expanded="false" />
-            <element signature="e#6598#6599#0" expanded="false" />
-            <element signature="e#6796#6797#0" expanded="false" />
-            <element signature="e#6834#6835#0" expanded="false" />
-            <element signature="e#7034#7035#0" expanded="false" />
-            <element signature="e#7074#7075#0" expanded="false" />
-            <element signature="e#7275#7276#0" expanded="false" />
-            <element signature="e#7306#7307#0" expanded="false" />
-            <element signature="e#7354#7355#0" expanded="false" />
-            <element signature="e#7427#7428#0" expanded="false" />
-            <element signature="e#7462#7463#0" expanded="false" />
-            <element signature="e#7493#7494#0" expanded="false" />
-            <element signature="e#7541#7542#0" expanded="false" />
-            <element signature="e#7614#7615#0" expanded="false" />
-            <element signature="e#7652#7653#0" expanded="false" />
-            <element signature="e#7686#7687#0" expanded="false" />
-            <element signature="e#7870#7871#0" expanded="false" />
-            <element signature="e#7914#7915#0" expanded="false" />
-            <element signature="e#8147#8148#0" expanded="false" />
-            <element signature="e#8189#8190#0" expanded="false" />
-            <element signature="e#8260#8261#0" expanded="false" />
-            <element signature="e#8322#8323#0" expanded="false" />
-            <element signature="e#8374#8375#0" expanded="false" />
-            <element signature="e#8422#8423#0" expanded="false" />
-            <element signature="e#8682#8683#0" expanded="false" />
-            <element signature="e#8732#8733#0" expanded="false" />
-            <element signature="e#8993#8994#0" expanded="false" />
-            <element signature="e#9034#9035#0" expanded="false" />
-            <element signature="e#9250#9251#0" expanded="false" />
-            <element signature="e#9291#9292#0" expanded="false" />
-            <element signature="e#9510#9511#0" expanded="false" />
-            <element signature="e#9554#9555#0" expanded="false" />
-            <element signature="e#9793#9794#0" expanded="false" />
-            <element signature="e#9842#9843#0" expanded="false" />
-            <element signature="e#10090#10091#0" expanded="false" />
-            <element signature="e#10123#10124#0" expanded="false" />
-            <element signature="e#10175#10176#0" expanded="false" />
-            <element signature="e#10254#10255#0" expanded="false" />
-            <element signature="e#10317#10318#0" expanded="false" />
-            <element signature="e#10376#10377#0" expanded="false" />
-            <element signature="e#10674#10675#0" expanded="false" />
-            <element signature="e#10707#10708#0" expanded="false" />
-            <element signature="e#10759#10760#0" expanded="false" />
-            <element signature="e#10838#10839#0" expanded="false" />
-            <element signature="e#10874#10875#0" expanded="false" />
-            <element signature="e#10906#10907#0" expanded="false" />
-            <element signature="e#10956#10957#0" expanded="false" />
-            <element signature="e#11032#11033#0" expanded="false" />
-            <element signature="e#11072#11073#0" expanded="false" />
-            <element signature="e#11108#11109#0" expanded="false" />
-            <element signature="e#11296#11297#0" expanded="false" />
-            <element signature="e#11334#11335#0" expanded="false" />
-            <element signature="e#11528#11529#0" expanded="false" />
-            <element signature="e#11562#11563#0" expanded="false" />
-            <element signature="e#11738#11739#0" expanded="false" />
-            <element signature="e#11774#11775#0" expanded="false" />
-            <element signature="e#11953#11954#0" expanded="false" />
-            <element signature="e#11982#11983#0" expanded="false" />
-            <element signature="e#12026#12027#0" expanded="false" />
-            <element signature="e#12093#12094#0" expanded="false" />
-            <element signature="e#12125#12126#0" expanded="false" />
-            <element signature="e#12152#12153#0" expanded="false" />
-            <element signature="e#12193#12194#0" expanded="false" />
-            <element signature="e#12225#12226#0" expanded="false" />
-            <element signature="e#12258#12259#0" expanded="false" />
-            <element signature="e#12287#12288#0" expanded="false" />
-            <element signature="e#12331#12332#0" expanded="false" />
-            <element signature="e#12398#12399#0" expanded="false" />
-            <element signature="e#12430#12431#0" expanded="false" />
-            <element signature="e#12457#12458#0" expanded="false" />
-            <element signature="e#12498#12499#0" expanded="false" />
-            <element signature="e#12530#12531#0" expanded="false" />
-            <element signature="e#12578#12579#0" expanded="false" />
-            <element signature="e#12622#12623#0" expanded="false" />
-            <element signature="e#12857#12858#0" expanded="false" />
-            <element signature="e#12902#12903#0" expanded="false" />
-            <element signature="e#13149#13150#0" expanded="false" />
-            <element signature="e#13201#13202#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/StoreWithBLOBs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#319#320#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#553#554#0" expanded="false" />
-            <element signature="e#599#600#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="false" />
-            <element signature="e#706#707#0" expanded="false" />
-            <element signature="e#739#740#0" expanded="false" />
-            <element signature="e#791#792#0" expanded="false" />
-            <element signature="e#870#871#0" expanded="false" />
-            <element signature="e#910#911#0" expanded="false" />
-            <element signature="e#946#947#0" expanded="false" />
-            <element signature="e#1132#1133#0" expanded="false" />
-            <element signature="e#1168#1169#0" expanded="false" />
-            <element signature="e#1356#1357#0" expanded="false" />
-            <element signature="e#1394#1395#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/AlbumClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-901">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#607#608#0" expanded="false" />
-            <element signature="e#639#640#0" expanded="false" />
-            <element signature="e#690#691#0" expanded="false" />
-            <element signature="e#732#733#0" expanded="false" />
-            <element signature="e#768#769#0" expanded="false" />
-            <element signature="e#799#800#0" expanded="false" />
-            <element signature="e#848#849#0" expanded="false" />
-            <element signature="e#888#889#0" expanded="false" />
-            <element signature="e#925#926#0" expanded="false" />
-            <element signature="e#958#959#0" expanded="false" />
-            <element signature="e#1010#1011#0" expanded="false" />
-            <element signature="e#1089#1090#0" expanded="false" />
-            <element signature="e#1124#1125#0" expanded="false" />
-            <element signature="e#1154#1155#0" expanded="false" />
-            <element signature="e#1201#1202#0" expanded="false" />
-            <element signature="e#1239#1240#0" expanded="false" />
-            <element signature="e#1275#1276#0" expanded="false" />
-            <element signature="e#1307#1308#0" expanded="false" />
-            <element signature="e#1357#1358#0" expanded="false" />
-            <element signature="e#1433#1434#0" expanded="false" />
-            <element signature="e#1471#1472#0" expanded="false" />
-            <element signature="e#1504#1505#0" expanded="false" />
-            <element signature="e#1557#1558#0" expanded="false" />
-            <element signature="e#1601#1602#0" expanded="false" />
-            <element signature="e#1639#1640#0" expanded="false" />
-            <element signature="e#1673#1674#0" expanded="false" />
-            <element signature="e#1849#1850#0" expanded="false" />
-            <element signature="e#1882#1883#0" expanded="false" />
-            <element signature="e#1937#1938#0" expanded="false" />
-            <element signature="e#1981#1982#0" expanded="false" />
-            <element signature="e#2018#2019#0" expanded="false" />
-            <element signature="e#2050#2051#0" expanded="false" />
-            <element signature="e#2101#2102#0" expanded="false" />
-            <element signature="e#2143#2144#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/AlbumPic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-            <element signature="e#622#623#0" expanded="false" />
-            <element signature="e#667#668#0" expanded="false" />
-            <element signature="e#703#704#0" expanded="false" />
-            <element signature="e#738#739#0" expanded="false" />
-            <element signature="e#769#770#0" expanded="false" />
-            <element signature="e#817#818#0" expanded="false" />
-            <element signature="e#890#891#0" expanded="false" />
-            <element signature="e#924#925#0" expanded="false" />
-            <element signature="e#954#955#0" expanded="false" />
-            <element signature="e#1000#1001#0" expanded="false" />
-            <element signature="e#1070#1071#0" expanded="false" />
-            <element signature="e#1106#1107#0" expanded="false" />
-            <element signature="e#1137#1138#0" expanded="false" />
-            <element signature="e#1186#1187#0" expanded="false" />
-            <element signature="e#1226#1227#0" expanded="false" />
-            <element signature="e#1262#1263#0" expanded="false" />
-            <element signature="e#1294#1295#0" expanded="false" />
-            <element signature="e#1344#1345#0" expanded="false" />
-            <element signature="e#1420#1421#0" expanded="false" />
-            <element signature="e#1456#1457#0" expanded="false" />
-            <element signature="e#1487#1488#0" expanded="false" />
-            <element signature="e#1536#1537#0" expanded="false" />
-            <element signature="e#1576#1577#0" expanded="false" />
-            <element signature="e#1611#1612#0" expanded="false" />
-            <element signature="e#1642#1643#0" expanded="false" />
-            <element signature="e#1690#1691#0" expanded="false" />
-            <element signature="e#1763#1764#0" expanded="false" />
-            <element signature="e#1798#1799#0" expanded="false" />
-            <element signature="e#1828#1829#0" expanded="false" />
-            <element signature="e#1875#1876#0" expanded="false" />
-            <element signature="e#1913#1914#0" expanded="false" />
-            <element signature="e#1948#1949#0" expanded="false" />
-            <element signature="e#1981#1982#0" expanded="false" />
-            <element signature="e#2031#2032#0" expanded="false" />
-            <element signature="e#2075#2076#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/ArticleLangInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-886">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#516#517#0" expanded="false" />
-            <element signature="e#552#553#0" expanded="false" />
-            <element signature="e#608#609#0" expanded="false" />
-            <element signature="e#658#659#0" expanded="false" />
-            <element signature="e#692#693#0" expanded="false" />
-            <element signature="e#724#725#0" expanded="false" />
-            <element signature="e#772#773#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-            <element signature="e#849#850#0" expanded="false" />
-            <element signature="e#880#881#0" expanded="false" />
-            <element signature="e#928#929#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#1040#1041#0" expanded="false" />
-            <element signature="e#1075#1076#0" expanded="false" />
-            <element signature="e#1256#1257#0" expanded="false" />
-            <element signature="e#1292#1293#0" expanded="false" />
-            <element signature="e#1480#1481#0" expanded="false" />
-            <element signature="e#1518#1519#0" expanded="false" />
-            <element signature="e#1715#1716#0" expanded="false" />
-            <element signature="e#1752#1753#0" expanded="false" />
-            <element signature="e#1943#1944#0" expanded="false" />
-            <element signature="e#1978#1979#0" expanded="false" />
-            <element signature="e#2035#2036#0" expanded="false" />
-            <element signature="e#2083#2084#0" expanded="false" />
-            <element signature="e#2124#2125#0" expanded="false" />
-            <element signature="e#2161#2162#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/ArticleLangMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2310">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1156#1157#0" expanded="false" />
-            <element signature="e#1198#1199#0" expanded="false" />
-            <element signature="e#1379#1380#0" expanded="false" />
-            <element signature="e#1411#1412#0" expanded="false" />
-            <element signature="e#1459#1460#0" expanded="false" />
-            <element signature="e#1501#1502#0" expanded="false" />
-            <element signature="e#1540#1541#0" expanded="false" />
-            <element signature="e#1577#1578#0" expanded="false" />
-            <element signature="e#1635#1636#0" expanded="false" />
-            <element signature="e#1687#1688#0" expanded="false" />
-            <element signature="e#1727#1728#0" expanded="false" />
-            <element signature="e#1763#1764#0" expanded="false" />
-            <element signature="e#1956#1957#0" expanded="false" />
-            <element signature="e#1999#2000#0" expanded="false" />
-            <element signature="e#2219#2220#0" expanded="false" />
-            <element signature="e#2254#2255#0" expanded="false" />
-            <element signature="e#2433#2434#0" expanded="false" />
-            <element signature="e#2467#2468#0" expanded="false" />
-            <element signature="e#2649#2650#0" expanded="false" />
-            <element signature="e#2688#2689#0" expanded="false" />
-            <element signature="e#2755#2756#0" expanded="false" />
-            <element signature="e#2811#2812#0" expanded="false" />
-            <element signature="e#2855#2856#0" expanded="false" />
-            <element signature="e#2892#2893#0" expanded="false" />
-            <element signature="e#2955#2956#0" expanded="false" />
-            <element signature="e#3007#3008#0" expanded="false" />
-            <element signature="e#3055#3056#0" expanded="false" />
-            <element signature="e#3096#3097#0" expanded="false" />
-            <element signature="e#3167#3168#0" expanded="false" />
-            <element signature="e#3227#3228#0" expanded="false" />
-            <element signature="e#3266#3267#0" expanded="false" />
-            <element signature="e#3300#3301#0" expanded="false" />
-            <element signature="e#3355#3356#0" expanded="false" />
-            <element signature="e#3401#3402#0" expanded="false" />
-            <element signature="e#3442#3443#0" expanded="false" />
-            <element signature="e#3478#3479#0" expanded="false" />
-            <element signature="e#3537#3538#0" expanded="false" />
-            <element signature="e#3587#3588#0" expanded="false" />
-            <element signature="e#3633#3634#0" expanded="false" />
-            <element signature="e#3674#3675#0" expanded="false" />
-            <element signature="e#3743#3744#0" expanded="false" />
-            <element signature="e#3803#3804#0" expanded="false" />
-            <element signature="e#3849#3850#0" expanded="false" />
-            <element signature="e#3890#3891#0" expanded="false" />
-            <element signature="e#3959#3960#0" expanded="false" />
-            <element signature="e#4019#4020#0" expanded="false" />
-            <element signature="e#4059#4060#0" expanded="false" />
-            <element signature="e#4094#4095#0" expanded="false" />
-            <element signature="e#4151#4152#0" expanded="false" />
-            <element signature="e#4199#4200#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
-            <element signature="e#4289#4290#0" expanded="false" />
-            <element signature="e#4513#4514#0" expanded="false" />
-            <element signature="e#4554#4555#0" expanded="false" />
-            <element signature="e#4620#4621#0" expanded="false" />
-            <element signature="e#4680#4681#0" expanded="false" />
-            <element signature="e#4719#4720#0" expanded="false" />
-            <element signature="e#4753#4754#0" expanded="false" />
-            <element signature="e#4808#4809#0" expanded="false" />
-            <element signature="e#4854#4855#0" expanded="false" />
-            <element signature="e#4902#4903#0" expanded="false" />
-            <element signature="e#4946#4947#0" expanded="false" />
-            <element signature="e#5179#5180#0" expanded="false" />
-            <element signature="e#5219#5220#0" expanded="false" />
-            <element signature="e#5288#5289#0" expanded="false" />
-            <element signature="e#5346#5347#0" expanded="false" />
-            <element signature="e#5391#5392#0" expanded="false" />
-            <element signature="e#5431#5432#0" expanded="false" />
-            <element signature="e#5498#5499#0" expanded="false" />
-            <element signature="e#5556#5557#0" expanded="false" />
-            <element signature="e#5598#5599#0" expanded="false" />
-            <element signature="e#5636#5637#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/CmsArticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1764#1765#0" expanded="false" />
-            <element signature="e#1796#1797#0" expanded="false" />
-            <element signature="e#1844#1845#0" expanded="false" />
-            <element signature="e#1886#1887#0" expanded="false" />
-            <element signature="e#1925#1926#0" expanded="false" />
-            <element signature="e#1960#1961#0" expanded="false" />
-            <element signature="e#2140#2141#0" expanded="false" />
-            <element signature="e#2177#2178#0" expanded="false" />
-            <element signature="e#2235#2236#0" expanded="false" />
-            <element signature="e#2287#2288#0" expanded="false" />
-            <element signature="e#2327#2328#0" expanded="false" />
-            <element signature="e#2363#2364#0" expanded="false" />
-            <element signature="e#2556#2557#0" expanded="false" />
-            <element signature="e#2599#2600#0" expanded="false" />
-            <element signature="e#2820#2821#0" expanded="false" />
-            <element signature="e#2856#2857#0" expanded="false" />
-            <element signature="e#3044#3045#0" expanded="false" />
-            <element signature="e#3082#3083#0" expanded="false" />
-            <element signature="e#3277#3278#0" expanded="false" />
-            <element signature="e#3312#3313#0" expanded="false" />
-            <element signature="e#3494#3495#0" expanded="false" />
-            <element signature="e#3531#3532#0" expanded="false" />
-            <element signature="e#3720#3721#0" expanded="false" />
-            <element signature="e#3754#3755#0" expanded="false" />
-            <element signature="e#3936#3937#0" expanded="false" />
-            <element signature="e#3975#3976#0" expanded="false" />
-            <element signature="e#4042#4043#0" expanded="false" />
-            <element signature="e#4098#4099#0" expanded="false" />
-            <element signature="e#4142#4143#0" expanded="false" />
-            <element signature="e#4179#4180#0" expanded="false" />
-            <element signature="e#4242#4243#0" expanded="false" />
-            <element signature="e#4294#4295#0" expanded="false" />
-            <element signature="e#4342#4343#0" expanded="false" />
-            <element signature="e#4383#4384#0" expanded="false" />
-            <element signature="e#4454#4455#0" expanded="false" />
-            <element signature="e#4514#4515#0" expanded="false" />
-            <element signature="e#4554#4555#0" expanded="false" />
-            <element signature="e#4589#4590#0" expanded="false" />
-            <element signature="e#4646#4647#0" expanded="false" />
-            <element signature="e#4694#4695#0" expanded="false" />
-            <element signature="e#4733#4734#0" expanded="false" />
-            <element signature="e#4767#4768#0" expanded="false" />
-            <element signature="e#4822#4823#0" expanded="false" />
-            <element signature="e#4868#4869#0" expanded="false" />
-            <element signature="e#4909#4910#0" expanded="false" />
-            <element signature="e#4945#4946#0" expanded="false" />
-            <element signature="e#5004#5005#0" expanded="false" />
-            <element signature="e#5054#5055#0" expanded="false" />
-            <element signature="e#5100#5101#0" expanded="false" />
-            <element signature="e#5141#5142#0" expanded="false" />
-            <element signature="e#5210#5211#0" expanded="false" />
-            <element signature="e#5270#5271#0" expanded="false" />
-            <element signature="e#5316#5317#0" expanded="false" />
-            <element signature="e#5357#5358#0" expanded="false" />
-            <element signature="e#5426#5427#0" expanded="false" />
-            <element signature="e#5486#5487#0" expanded="false" />
-            <element signature="e#5531#5532#0" expanded="false" />
-            <element signature="e#5572#5573#0" expanded="false" />
-            <element signature="e#5790#5791#0" expanded="false" />
-            <element signature="e#5830#5831#0" expanded="false" />
-            <element signature="e#5899#5900#0" expanded="false" />
-            <element signature="e#5957#5958#0" expanded="false" />
-            <element signature="e#5997#5998#0" expanded="false" />
-            <element signature="e#6032#6033#0" expanded="false" />
-            <element signature="e#6089#6090#0" expanded="false" />
-            <element signature="e#6137#6138#0" expanded="false" />
-            <element signature="e#6184#6185#0" expanded="false" />
-            <element signature="e#6227#6228#0" expanded="false" />
-            <element signature="e#6451#6452#0" expanded="false" />
-            <element signature="e#6492#6493#0" expanded="false" />
-            <element signature="e#6558#6559#0" expanded="false" />
-            <element signature="e#6618#6619#0" expanded="false" />
-            <element signature="e#6657#6658#0" expanded="false" />
-            <element signature="e#6691#6692#0" expanded="false" />
-            <element signature="e#6746#6747#0" expanded="false" />
-            <element signature="e#6792#6793#0" expanded="false" />
-            <element signature="e#6840#6841#0" expanded="false" />
-            <element signature="e#6884#6885#0" expanded="false" />
-            <element signature="e#7117#7118#0" expanded="false" />
-            <element signature="e#7157#7158#0" expanded="false" />
-            <element signature="e#7226#7227#0" expanded="false" />
-            <element signature="e#7284#7285#0" expanded="false" />
-            <element signature="e#7321#7322#0" expanded="false" />
-            <element signature="e#7354#7355#0" expanded="false" />
-            <element signature="e#7406#7407#0" expanded="false" />
-            <element signature="e#7485#7486#0" expanded="false" />
-            <element signature="e#7532#7533#0" expanded="false" />
-            <element signature="e#7574#7575#0" expanded="false" />
-            <element signature="e#7645#7646#0" expanded="false" />
-            <element signature="e#7707#7708#0" expanded="false" />
-            <element signature="e#7751#7752#0" expanded="false" />
-            <element signature="e#7790#7791#0" expanded="false" />
-            <element signature="e#7855#7856#0" expanded="false" />
-            <element signature="e#7911#7912#0" expanded="false" />
-            <element signature="e#7955#7956#0" expanded="false" />
-            <element signature="e#7994#7995#0" expanded="false" />
-            <element signature="e#8059#8060#0" expanded="false" />
-            <element signature="e#8115#8116#0" expanded="false" />
-            <element signature="e#8159#8160#0" expanded="false" />
-            <element signature="e#8198#8199#0" expanded="false" />
-            <element signature="e#8263#8264#0" expanded="false" />
-            <element signature="e#8319#8320#0" expanded="false" />
-            <element signature="e#8363#8364#0" expanded="false" />
-            <element signature="e#8402#8403#0" expanded="false" />
-            <element signature="e#8467#8468#0" expanded="false" />
-            <element signature="e#8523#8524#0" expanded="false" />
-            <element signature="e#8567#8568#0" expanded="false" />
-            <element signature="e#8606#8607#0" expanded="false" />
-            <element signature="e#8671#8672#0" expanded="false" />
-            <element signature="e#8727#8728#0" expanded="false" />
-            <element signature="e#8771#8772#0" expanded="false" />
-            <element signature="e#8810#8811#0" expanded="false" />
-            <element signature="e#8875#8876#0" expanded="false" />
-            <element signature="e#8931#8932#0" expanded="false" />
-            <element signature="e#8975#8976#0" expanded="false" />
-            <element signature="e#9015#9016#0" expanded="false" />
-            <element signature="e#9228#9229#0" expanded="false" />
-            <element signature="e#9270#9271#0" expanded="false" />
-            <element signature="e#9341#9342#0" expanded="false" />
-            <element signature="e#9403#9404#0" expanded="false" />
-            <element signature="e#9454#9455#0" expanded="false" />
-            <element signature="e#9500#9501#0" expanded="false" />
-            <element signature="e#9694#9695#0" expanded="false" />
-            <element signature="e#9734#9735#0" expanded="false" />
-            <element signature="e#9801#9802#0" expanded="false" />
-            <element signature="e#9859#9860#0" expanded="false" />
-            <element signature="e#9905#9906#0" expanded="false" />
-            <element signature="e#9947#9948#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/CmsArticleClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="32" column="74" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#680#681#0" expanded="false" />
-            <element signature="e#708#709#0" expanded="false" />
-            <element signature="e#751#752#0" expanded="false" />
-            <element signature="e#785#786#0" expanded="false" />
-            <element signature="e#931#932#0" expanded="false" />
-            <element signature="e#962#963#0" expanded="false" />
-            <element signature="e#1025#1026#0" expanded="false" />
-            <element signature="e#1065#1066#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1127#1128#0" expanded="false" />
-            <element signature="e#1171#1172#0" expanded="false" />
-            <element signature="e#1209#1210#0" expanded="false" />
-            <element signature="e#1242#1243#0" expanded="false" />
-            <element signature="e#1273#1274#0" expanded="false" />
-            <element signature="e#1319#1320#0" expanded="false" />
-            <element signature="e#1359#1360#0" expanded="false" />
-            <element signature="e#1395#1396#0" expanded="false" />
-            <element signature="e#1427#1428#0" expanded="false" />
-            <element signature="e#1477#1478#0" expanded="false" />
-            <element signature="e#1553#1554#0" expanded="false" />
-            <element signature="e#1590#1591#0" expanded="false" />
-            <element signature="e#1622#1623#0" expanded="false" />
-            <element signature="e#1673#1674#0" expanded="false" />
-            <element signature="e#1715#1716#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/CmsArticleWithBLOBs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#291#292#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#553#554#0" expanded="false" />
-            <element signature="e#736#737#0" expanded="false" />
-            <element signature="e#774#775#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/CmsSlide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-211">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#505#506#0" expanded="false" />
-            <element signature="e#535#536#0" expanded="false" />
-            <element signature="e#582#583#0" expanded="false" />
-            <element signature="e#620#621#0" expanded="false" />
-            <element signature="e#656#657#0" expanded="false" />
-            <element signature="e#688#689#0" expanded="false" />
-            <element signature="e#738#739#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-            <element signature="e#849#850#0" expanded="false" />
-            <element signature="e#880#881#0" expanded="false" />
-            <element signature="e#928#929#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#1038#1039#0" expanded="false" />
-            <element signature="e#1070#1071#0" expanded="false" />
-            <element signature="e#1121#1122#0" expanded="false" />
-            <element signature="e#1163#1164#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/FindPassword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
-            <element signature="e#325#326#0" expanded="false" />
-            <element signature="e#375#376#0" expanded="false" />
-            <element signature="e#451#452#0" expanded="false" />
-            <element signature="e#488#489#0" expanded="false" />
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#567#568#0" expanded="false" />
-            <element signature="e#605#606#0" expanded="false" />
-            <element signature="e#638#639#0" expanded="false" />
-            <element signature="e#667#668#0" expanded="false" />
-            <element signature="e#711#712#0" expanded="false" />
-            <element signature="e#778#779#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/GoodsClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1381">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1053#1054#0" expanded="false" />
-            <element signature="e#1081#1082#0" expanded="false" />
-            <element signature="e#1124#1125#0" expanded="false" />
-            <element signature="e#1158#1159#0" expanded="false" />
-            <element signature="e#1190#1191#0" expanded="false" />
-            <element signature="e#1218#1219#0" expanded="false" />
-            <element signature="e#1260#1261#0" expanded="false" />
-            <element signature="e#1294#1295#0" expanded="false" />
-            <element signature="e#1350#1362#0" expanded="false" />
-            <element signature="e#1409#1410#0" expanded="false" />
-            <element signature="e#1440#1441#0" expanded="false" />
-            <element signature="e#1498#1499#0" expanded="false" />
-            <element signature="e#1538#1539#0" expanded="false" />
-            <element signature="e#1570#1571#0" expanded="false" />
-            <element signature="e#1597#1598#0" expanded="false" />
-            <element signature="e#1638#1639#0" expanded="false" />
-            <element signature="e#1670#1671#0" expanded="false" />
-            <element signature="e#1703#1704#0" expanded="false" />
-            <element signature="e#1732#1733#0" expanded="false" />
-            <element signature="e#1776#1777#0" expanded="false" />
-            <element signature="e#1843#1844#0" expanded="false" />
-            <element signature="e#1877#1878#0" expanded="false" />
-            <element signature="e#1906#1907#0" expanded="false" />
-            <element signature="e#1951#1952#0" expanded="false" />
-            <element signature="e#1987#1988#0" expanded="false" />
-            <element signature="e#2022#2023#0" expanded="false" />
-            <element signature="e#2053#2054#0" expanded="false" />
-            <element signature="e#2101#2102#0" expanded="false" />
-            <element signature="e#2174#2175#0" expanded="false" />
-            <element signature="e#2212#2213#0" expanded="false" />
-            <element signature="e#2245#2246#0" expanded="false" />
-            <element signature="e#2298#2299#0" expanded="false" />
-            <element signature="e#2342#2343#0" expanded="false" />
-            <element signature="e#2376#2377#0" expanded="false" />
-            <element signature="e#2405#2406#0" expanded="false" />
-            <element signature="e#2450#2451#0" expanded="false" />
-            <element signature="e#2486#2487#0" expanded="false" />
-            <element signature="e#2520#2521#0" expanded="false" />
-            <element signature="e#2550#2551#0" expanded="false" />
-            <element signature="e#2596#2597#0" expanded="false" />
-            <element signature="e#2666#2667#0" expanded="false" />
-            <element signature="e#2703#2704#0" expanded="false" />
-            <element signature="e#2736#2737#0" expanded="false" />
-            <element signature="e#2788#2789#0" expanded="false" />
-            <element signature="e#2867#2868#0" expanded="false" />
-            <element signature="e#2907#2908#0" expanded="false" />
-            <element signature="e#2943#2944#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/StoreClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#660#661#0" expanded="false" />
-            <element signature="e#688#689#0" expanded="false" />
-            <element signature="e#731#732#0" expanded="false" />
-            <element signature="e#765#766#0" expanded="false" />
-            <element signature="e#837#849#0" expanded="false" />
-            <element signature="e#878#879#0" expanded="false" />
-            <element signature="e#903#904#0" expanded="false" />
-            <element signature="e#937#938#0" expanded="false" />
-            <element signature="e#965#966#0" expanded="false" />
-            <element signature="e#997#998#0" expanded="false" />
-            <element signature="e#1024#1025#0" expanded="false" />
-            <element signature="e#1065#1066#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1128#1129#0" expanded="false" />
-            <element signature="e#1155#1156#0" expanded="false" />
-            <element signature="e#1195#1196#0" expanded="false" />
-            <element signature="e#1256#1257#0" expanded="false" />
-            <element signature="e#1289#1290#0" expanded="false" />
-            <element signature="e#1320#1321#0" expanded="false" />
-            <element signature="e#1366#1367#0" expanded="false" />
-            <element signature="e#1407#1408#0" expanded="false" />
-            <element signature="e#1452#1453#0" expanded="false" />
-            <element signature="e#1483#1484#0" expanded="false" />
-            <element signature="e#1541#1542#0" expanded="false" />
-            <element signature="e#1581#1582#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/model/JsonManagementClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#198#199#0" expanded="false" />
-            <element signature="e#223#224#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#318#319#0" expanded="false" />
-            <element signature="e#345#346#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#417#418#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/model/JsonManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#219#240#0" expanded="false" />
-            <element signature="e#292#293#0" expanded="false" />
-            <element signature="e#319#320#0" expanded="false" />
-            <element signature="e#378#379#0" expanded="false" />
-            <element signature="e#410#411#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/AdminService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/AlbumPicService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/ArticleLangService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/CmsArticleClassService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/CmsArticleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-interface/src/main/java/com/lcc/goshop/manager/i/CmsSlideService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1812,7 +976,7 @@
         <state relative-caret-position="210">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1838,7 +1002,7 @@
         <state relative-caret-position="239">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1848,7 +1012,7 @@
         <state relative-caret-position="194">
           <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1858,7 +1022,7 @@
         <state relative-caret-position="135">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1868,7 +1032,7 @@
         <state relative-caret-position="195">
           <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1886,7 +1050,7 @@
         <state relative-caret-position="194">
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1896,7 +1060,7 @@
         <state relative-caret-position="180">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1906,7 +1070,7 @@
         <state relative-caret-position="179">
           <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1932,7 +1096,7 @@
         <state relative-caret-position="120">
           <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1942,7 +1106,7 @@
         <state relative-caret-position="195">
           <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1952,7 +1116,7 @@
         <state relative-caret-position="194">
           <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1962,7 +1126,7 @@
         <state relative-caret-position="330">
           <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1972,7 +1136,7 @@
         <state relative-caret-position="480">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1982,7 +1146,7 @@
         <state relative-caret-position="134">
           <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1992,7 +1156,368 @@
         <state relative-caret-position="135">
           <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/AlbumPicMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding>
+            <marker date="1486782656000" expanded="true" signature="1263:1391" ph="select from gs_album_pic" />
+            <marker date="1486782656000" expanded="true" signature="1487:1562" ph="delete from " />
+            <marker date="1486782656000" expanded="true" signature="1665:2125" ph="insert into gs_album_pic... " />
+            <marker date="1486782656000" expanded="true" signature="4321:5370" ph="update gs_al... " />
+            <marker date="1486782656000" expanded="true" signature="5485:5962" ph="update gs_al... " />
+            <marker date="1486782656000" expanded="true" signature="6031:6134" ph="UPDATE gs_al... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/AlbumClassMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <marker date="1486782680000" expanded="true" signature="1290:1424" ph="select from gs_album_class" />
+            <marker date="1486782680000" expanded="true" signature="1520:1601" ph="delete from " />
+            <marker date="1486782680000" expanded="true" signature="1706:2127" ph="insert into gs_album_class... " />
+            <marker date="1486782680000" expanded="true" signature="4131:5091" ph="update gs_al... " />
+            <marker date="1486782680000" expanded="true" signature="5208:5655" ph="update gs_al... " />
+            <marker date="1486782680000" expanded="true" signature="6621:6796" ph="SELECT count... gs_album_class" />
+            <marker date="1486782680000" expanded="true" signature="6895:7097" ph="SELECT a.* F... gs_album_class" />
+            <marker date="1486782680000" expanded="true" signature="7188:7377" ph="SELECT a.* F... gs_album_class" />
+            <marker date="1486782680000" expanded="true" signature="7470:7668" ph="SELECT a.* F... gs_album_class" />
+            <marker date="1486782680000" expanded="true" signature="7782:8678" ph="update gs_al... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/ArticleLangInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="150" column="13" selection-start-line="150" selection-start-column="13" selection-end-line="150" selection-end-column="13" />
+          <folding>
+            <marker date="1486782798000" expanded="true" signature="1587:1792" ph="select , fro... " />
+            <marker date="1486782798000" expanded="true" signature="1884:1981" ph="delete from " />
+            <marker date="1486782798000" expanded="true" signature="2090:2637" ph="insert into gs_article_lang_info... " />
+            <marker date="1486782798000" expanded="true" signature="4964:6132" ph="update gs_ar... " />
+            <marker date="1486782798000" expanded="true" signature="6262:6826" ph="update gs_ar... " />
+            <marker date="1486782798000" expanded="true" signature="6947:7445" ph="update gs_ar... " />
+            <marker date="1486782798000" expanded="true" signature="7536:7624" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/ArticleLangMainMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1651">
+          <caret line="298" column="68" selection-start-line="298" selection-start-column="68" selection-end-line="298" selection-end-column="68" />
+          <folding>
+            <marker date="1486782911000" expanded="true" signature="3858:4054" ph="select , fro... " />
+            <marker date="1486782911000" expanded="true" signature="4146:4234" ph="delete from " />
+            <marker date="1486782911000" expanded="true" signature="4339:5659" ph="insert into gs_article_lang_main... " />
+            <marker date="1486782911000" expanded="true" signature="10796:13715" ph="update gs_ar... " />
+            <marker date="1486782911000" expanded="true" signature="13845:15228" ph="update gs_ar... " />
+            <marker date="1486782911000" expanded="true" signature="15349:16663" ph="update gs_ar... " />
+            <marker date="1486782911000" expanded="true" signature="16744:16943" ph="SELECT m.* ,... gs_article_lang_main" />
+            <marker date="1486782911000" expanded="true" signature="17062:17259" ph="SELECT m.* ,... gs_article_lang_main" />
+            <marker date="1486782911000" expanded="true" signature="17337:18257" ph="SELECT disti... gs_article_lang_main" />
+            <marker date="1486782911000" expanded="true" signature="18320:18458" ph="update gs_ar... " />
+            <marker date="1486782911000" expanded="true" signature="18584:18852" ph="SELECT m.* ,... gs_article_lang_main" />
+            <marker date="1486782911000" expanded="true" signature="18952:19466" ph="SELECT m.* ,... gs_article_lang_main" />
+            <marker date="1486782911000" expanded="true" signature="19574:20359" ph="SELECT m.art... gs_article_lang_main" />
+            <marker date="1486782911000" expanded="true" signature="20473:21323" ph="SELECT m.art... gs_article_lang_main" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/CmsArticleClassMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-946">
+          <caret line="76" column="55" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+          <folding>
+            <marker date="1486783057000" expanded="true" signature="1351:1488" ph="select from gs_cms_article_class" />
+            <marker date="1486783057000" expanded="true" signature="1580:1664" ph="delete from " />
+            <marker date="1486783057000" expanded="true" signature="1773:1998" ph="insert into gs_cms_article_class... " />
+            <marker date="1486783057000" expanded="true" signature="2116:3039" ph="insert into gs_cms_article_class... " />
+            <marker date="1486783057000" expanded="true" signature="3203:3667" ph="update gs_cm... " />
+            <marker date="1486783057000" expanded="true" signature="3788:4019" ph="update gs_cm... " />
+            <marker date="1486783057000" expanded="true" signature="4139:4620" ph="SELECT leaf.... gs_cms_article_class" />
+            <marker date="1486783057000" expanded="true" signature="4736:5049" ph="select from gs_cms_article_class" />
+            <marker date="1486783057000" expanded="true" signature="5138:5456" ph="select from gs_cms_article_class" />
+            <marker date="1486783057000" expanded="true" signature="5529:5663" ph="update gs_cm... " />
+            <marker date="1486783057000" expanded="true" signature="5722:5856" ph="update gs_cm... " />
+            <marker date="1486783057000" expanded="true" signature="5965:6581" ph="SELECT t.cla... gs_cms_article_class" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/CmsArticleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1171">
+          <caret line="526" column="66" selection-start-line="526" selection-start-column="66" selection-end-line="526" selection-end-column="66" />
+          <folding>
+            <marker date="1486783178000" expanded="true" signature="5389:5579" ph="select , fro... " />
+            <marker date="1486783178000" expanded="true" signature="5671:5753" ph="delete from " />
+            <marker date="1486783178000" expanded="true" signature="5866:8493" ph="insert into gs_cms_article... " />
+            <marker date="1486783178000" expanded="true" signature="18298:24191" ph="update gs_cm... " />
+            <marker date="1486783178000" expanded="true" signature="24325:27092" ph="update gs_cm... " />
+            <marker date="1486783178000" expanded="true" signature="27208:29778" ph="update gs_cm... " />
+            <marker date="1486783178000" expanded="true" signature="29870:30011" ph="select from gs_cms_article" />
+            <marker date="1486783178000" expanded="true" signature="30081:30228" ph="update gs_cm... " />
+            <marker date="1486783178000" expanded="true" signature="30303:30461" ph="update gs_cm... " />
+            <marker date="1486783178000" expanded="true" signature="30532:30681" ph="update gs_cm... " />
+            <marker date="1486783178000" expanded="true" signature="30751:30898" ph="update gs_cm... " />
+            <marker date="1486783178000" expanded="true" signature="30961:31093" ph="update gs_cm... " />
+            <marker date="1486783178000" expanded="true" signature="31157:31291" ph="update gs_cm... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/CmsSlideMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+          <folding>
+            <marker date="1486783837000" expanded="true" signature="821:951" ph="select from gs_cms_slide" />
+            <marker date="1486783837000" expanded="true" signature="1047:1124" ph="delete from " />
+            <marker date="1486783837000" expanded="true" signature="1223:1446" ph="insert into gs_cms_slide... " />
+            <marker date="1486783837000" expanded="true" signature="2682:3144" ph="update gs_cm... " />
+            <marker date="1486783837000" expanded="true" signature="3259:3488" ph="update gs_cm... " />
+            <marker date="1486783837000" expanded="true" signature="3565:3662" ph="select from gs_cms_slide" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/FindPasswordMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <marker date="1486783866000" expanded="true" signature="630:807" ph="insert into gs_find_password... " />
+            <marker date="1486783866000" expanded="true" signature="1727:1795" ph="delete from " />
+            <marker date="1486783866000" expanded="true" signature="1868:1936" ph="delete from " />
+            <marker date="1486783866000" expanded="true" signature="2032:2136" ph="SELECT login... gs_find_password" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/GoodsClassMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-751">
+          <caret line="147" column="38" selection-start-line="147" selection-start-column="38" selection-end-line="147" selection-end-column="38" />
+          <folding>
+            <marker date="1486783926000" expanded="true" signature="2278:2404" ph="select from gs_goods_class" />
+            <marker date="1486783926000" expanded="true" signature="2499:2572" ph="delete from " />
+            <marker date="1486783926000" expanded="true" signature="2676:3168" ph="insert into gs_goods_class... " />
+            <marker date="1486783926000" expanded="true" signature="5498:6656" ph="update gs_go... " />
+            <marker date="1486783926000" expanded="true" signature="6772:7292" ph="update gs_go... " />
+            <marker date="1486783926000" expanded="true" signature="7415:8163" ph="SELECT t.gc_... gs_goods_class" />
+            <marker date="1486783926000" expanded="true" signature="8282:8421" ph="select from gs_goods_class" />
+            <marker date="1486783926000" expanded="true" signature="8513:8701" ph="select from gs_goods_class" />
+            <marker date="1486783926000" expanded="true" signature="8778:8857" ph="select from gs_goods_class" />
+            <marker date="1486783926000" expanded="true" signature="8982:9308" ph="SELECT leaf.... gs_goods_class" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/GoodsTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="89" column="59" selection-start-line="89" selection-start-column="59" selection-end-line="89" selection-end-column="59" />
+          <folding>
+            <marker date="1486783983000" expanded="true" signature="899:1028" ph="select from gs_goods_type" />
+            <marker date="1486783983000" expanded="true" signature="1124:1200" ph="delete from " />
+            <marker date="1486783983000" expanded="true" signature="1304:1559" ph="insert into gs_goods_type... " />
+            <marker date="1486783983000" expanded="true" signature="2930:3499" ph="update gs_go... " />
+            <marker date="1486783983000" expanded="true" signature="3614:3884" ph="update gs_go... " />
+            <marker date="1486783983000" expanded="true" signature="3962:4059" ph="select from gs_goods_type" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/MemberMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-961">
+          <caret line="398" column="13" selection-start-line="398" selection-start-column="13" selection-end-line="398" selection-end-column="13" />
+          <folding>
+            <marker date="1486784080000" expanded="true" signature="3322:3512" ph="select m.*,u... gs_member" />
+            <marker date="1486784080000" expanded="true" signature="3605:3680" ph="delete from " />
+            <marker date="1486784080000" expanded="true" signature="3827:5163" ph="insert into gs_member... " />
+            <marker date="1486784080000" expanded="true" signature="10778:13957" ph="update gs_me... " />
+            <marker date="1486784080000" expanded="true" signature="14070:15438" ph="update gs_me... " />
+            <marker date="1486784080000" expanded="true" signature="15544:15652" ph="SELECT count... gs_member" />
+            <marker date="1486784080000" expanded="true" signature="15733:15921" ph="SELECT count... gs_member" />
+            <marker date="1486784080000" expanded="true" signature="15999:16073" ph="select from gs_member" />
+            <marker date="1486784080000" expanded="true" signature="16155:16281" ph="select m.*,u... gs_member" />
+            <marker date="1486784080000" expanded="true" signature="16392:16527" ph="select from gs_member" />
+            <marker date="1486784080000" expanded="true" signature="17908:18095" ph="select m.*,u... gs_member" />
+            <marker date="1486784080000" expanded="true" signature="18204:21379" ph="update gs_me... " />
+            <marker date="1486784080000" expanded="true" signature="21434:21551" ph="update gs_me... " />
+            <marker date="1486784080000" expanded="true" signature="21605:21724" ph="update gs_me... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/PermissionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="119" column="59" selection-start-line="119" selection-start-column="59" selection-end-line="119" selection-end-column="59" />
+          <folding>
+            <marker date="1486784284000" expanded="true" signature="1080:1199" ph="select from gs_permission" />
+            <marker date="1486784284000" expanded="true" signature="1291:1357" ph="delete from " />
+            <marker date="1486784284000" expanded="true" signature="1502:1844" ph="insert into gs_permission... " />
+            <marker date="1486784284000" expanded="true" signature="3735:4586" ph="update gs_pe... " />
+            <marker date="1486784284000" expanded="true" signature="4702:5070" ph="update gs_pe... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/RoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="97" column="59" selection-start-line="97" selection-start-column="59" selection-end-line="97" selection-end-column="59" />
+          <folding>
+            <marker date="1486784345000" expanded="true" signature="1631:1744" ph="select from gs_role" />
+            <marker date="1486784345000" expanded="true" signature="1836:1896" ph="delete from " />
+            <marker date="1486784345000" expanded="true" signature="2034:2247" ph="insert into gs_role... " />
+            <marker date="1486784345000" expanded="true" signature="3571:4085" ph="update gs_ro... " />
+            <marker date="1486784345000" expanded="true" signature="4196:4424" ph="update gs_ro... " />
+            <marker date="1486784345000" expanded="true" signature="4526:4643" ph="select from gs_role" />
+            <marker date="1486784345000" expanded="true" signature="4757:5155" ph="SELECT r.*,u... gs_role" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreClassMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1111">
+          <caret line="84" column="59" selection-start-line="84" selection-start-column="59" selection-end-line="84" selection-end-column="59" />
+          <folding>
+            <marker date="1486784418000" expanded="true" signature="1182:1302" ph="select from gs_store_class" />
+            <marker date="1486784418000" expanded="true" signature="1394:1461" ph="delete from " />
+            <marker date="1486784418000" expanded="true" signature="1607:1797" ph="insert into gs_store_class... " />
+            <marker date="1486784418000" expanded="true" signature="2970:3389" ph="update gs_st... " />
+            <marker date="1486784418000" expanded="true" signature="3506:3702" ph="update gs_st... " />
+            <marker date="1486784418000" expanded="true" signature="3790:3883" ph="select from gs_store_class" />
+            <marker date="1486784418000" expanded="true" signature="4767:5306" ph="SELECT t.id gs_store_class" />
+            <marker date="1486784418000" expanded="true" signature="5360:5466" ph="update gs_st... " />
+            <marker date="1486784418000" expanded="true" signature="5520:5626" ph="update gs_st... " />
+            <marker date="1486784418000" expanded="true" signature="5742:6043" ph="select from gs_store_class" />
+            <marker date="1486784418000" expanded="true" signature="6163:6602" ph="SELECT leaf.... gs_store_class" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreGoodsClassMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="103" column="48" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
+          <folding>
+            <marker date="1486784704000" expanded="true" signature="997:1131" ph="select from gs_store_goods_class" />
+            <marker date="1486784704000" expanded="true" signature="1226:1307" ph="delete from " />
+            <marker date="1486784704000" expanded="true" signature="1416:1736" ph="insert into gs_store_goods_class... " />
+            <marker date="1486784704000" expanded="true" signature="3314:4007" ph="update gs_st... " />
+            <marker date="1486784704000" expanded="true" signature="4128:4454" ph="update gs_st... " />
+            <marker date="1486784704000" expanded="true" signature="4575:4895" ph="select from gs_store_goods_class" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreGradeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-256">
+          <caret line="183" column="59" selection-start-line="183" selection-start-column="59" selection-end-line="183" selection-end-column="59" />
+          <folding>
+            <marker date="1486784824000" expanded="true" signature="1786:1967" ph="select , fro... " />
+            <marker date="1486784824000" expanded="true" signature="2062:2135" ph="delete from " />
+            <marker date="1486784824000" expanded="true" signature="2239:2883" ph="insert into gs_store_grade... " />
+            <marker date="1486784824000" expanded="true" signature="5703:7175" ph="update gs_st... " />
+            <marker date="1486784824000" expanded="true" signature="7300:7972" ph="update gs_st... " />
+            <marker date="1486784824000" expanded="true" signature="8088:8696" ph="update gs_st... " />
+            <marker date="1486784824000" expanded="true" signature="8778:8937" ph="select , fro... " />
+            <marker date="1486784824000" expanded="true" signature="9047:9229" ph="select , fro... " />
+            <marker date="1486784824000" expanded="true" signature="9341:9526" ph="select , fro... " />
+            <marker date="1486784824000" expanded="true" signature="9640:9841" ph="select , fro... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/StoreJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreJoinMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-601">
+          <caret line="558" column="53" selection-start-line="558" selection-start-column="53" selection-end-line="558" selection-end-column="53" />
+          <folding>
+            <marker date="1486785801000" expanded="true" signature="6017:6149" ph="select from gs_store_join" />
+            <marker date="1486785801000" expanded="true" signature="6241:6320" ph="delete from " />
+            <marker date="1486785801000" expanded="true" signature="6423:9555" ph="insert into gs_store_join... " />
+            <marker date="1486785801000" expanded="true" signature="20851:27719" ph="update gs_st... " />
+            <marker date="1486785801000" expanded="true" signature="27834:31080" ph="update gs_st... " />
+            <marker date="1486785801000" expanded="true" signature="31189:31326" ph="select from gs_store_join" />
+            <marker date="1486785801000" expanded="true" signature="31434:31569" ph="select from gs_store_join" />
+            <marker date="1486785801000" expanded="true" signature="31646:31724" ph="select from gs_store_join" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-871">
+          <caret line="639" column="61" selection-start-line="639" selection-start-column="61" selection-end-line="639" selection-end-column="61" />
+          <folding>
+            <marker date="1486785881000" expanded="true" signature="5674:5855" ph="select , fro... " />
+            <marker date="1486785881000" expanded="true" signature="5950:6023" ph="delete from " />
+            <marker date="1486785881000" expanded="true" signature="6131:8847" ph="insert into gs_store... " />
+            <marker date="1486785881000" expanded="true" signature="19747:26223" ph="update gs_st... " />
+            <marker date="1486785881000" expanded="true" signature="26352:29239" ph="update gs_st... " />
+            <marker date="1486785881000" expanded="true" signature="29350:31871" ph="update gs_st... " />
+            <marker date="1486785881000" expanded="true" signature="31986:32113" ph="select from gs_store" />
+            <marker date="1486785881000" expanded="true" signature="32190:32263" ph="select from gs_store" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret line="262" column="56" selection-start-line="262" selection-start-column="56" selection-end-line="262" selection-end-column="56" />
+          <folding>
+            <marker date="1486786750000" expanded="true" signature="3201:3314" ph="select from gs_user" />
+            <marker date="1486786750000" expanded="true" signature="3406:3466" ph="delete from " />
+            <marker date="1486786750000" expanded="true" signature="3604:4223" ph="insert into gs_user... " />
+            <marker date="1486786750000" expanded="true" signature="7311:8905" ph="update gs_us... " />
+            <marker date="1486786750000" expanded="true" signature="9015:9701" ph="update gs_us... " />
+            <marker date="1486786750000" expanded="true" signature="9807:9935" ph="select from gs_user" />
+            <marker date="1486786750000" expanded="true" signature="10049:10335" ph="SELECT u.*,r... gs_user" />
+            <marker date="1486786750000" expanded="true" signature="10468:10796" ph="SELECT p.* F... gs_user" />
+            <marker date="1486786750000" expanded="true" signature="10900:11002" ph="SELECT count... gs_user" />
+            <marker date="1486786750000" expanded="true" signature="11110:11799" ph="update gs_us... " />
+            <marker date="1486786750000" expanded="true" signature="11910:12132" ph="SELECT r.* F... gs_user" />
+            <marker date="1486786750000" expanded="true" signature="12209:12433" ph="SELECT count... gs_user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserRoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <marker date="1486786895000" expanded="true" signature="532:633" ph="insert into gs_user_role... " />
+            <marker date="1486786895000" expanded="true" signature="744:1233" ph="insert into gs_user_role... " />
+            <marker date="1486786895000" expanded="true" signature="1353:1473" ph="select * fro... gs_user_role" />
+            <marker date="1486786895000" expanded="true" signature="1534:1636" ph="delete from " />
           </folding>
         </state>
       </provider>
