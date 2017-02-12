@@ -11,5 +11,35 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="goshop-commons-context" exported="" />
+    <orderEntry type="module" module-name="goshop-commons" exported="" />
+    <orderEntry type="library" exported="" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.4.0" level="project" />
+    <orderEntry type="library" exported="" name="Maven: com.fasterxml.jackson.core:jackson-core:2.4.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.4.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: javax.servlet:jsp-api:2.0" level="project" />
+    <orderEntry type="library" exported="" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
+    <orderEntry type="library" exported="" name="Maven: javax.servlet:servlet-api:3.0-alpha-1" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-aop:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-aop:4.3.4.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-aspects:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-beans:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-beans:4.3.4.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-context-support:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-context:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-context:4.3.4.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-core:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-core:4.3.4.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-expression:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-expression:4.3.4.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-jdbc:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-test:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-tx:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-web:4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-webmvc:4.1.6.RELEASE" level="project" />
+    <orderEntry type="module" module-name="goshop-manager-mapper" exported="" />
+    <orderEntry type="module" module-name="goshop-manager-interface" exported="" />
+    <orderEntry type="module" module-name="goshop-commons-attachment" exported="" />
+    <orderEntry type="module" module-name="goshop-manager-pojo" exported="" />
+    <orderEntry type="library" exported="" name="Maven: com.github.pagehelper:pagehelper:4.1.6" level="project" />
   </component>
 </module>
