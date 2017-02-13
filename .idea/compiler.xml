@@ -38,6 +38,9 @@
         <module name="goshop-parent" />
         <module name="goshop-partal-interface" />
         <module name="goshop-portal" />
+        <module name="goshop-portal-interface" />
+        <module name="goshop-portal-rest" />
+        <module name="goshop-portal-web" />
         <module name="goshop-redis" />
         <module name="goshop-seller" />
         <module name="goshop-seller-interface" />

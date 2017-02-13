@@ -8,5 +8,10 @@
     <artifactId>com.lcc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>goshop-portal-interface</module>
+        <module>goshop-portal-rest</module>
+        <module>goshop-portal-web</module>
+    </modules>
 
 </project>
