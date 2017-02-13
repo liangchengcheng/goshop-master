@@ -62,39 +62,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CmsArticleController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/CmsArticleController.java">
+      <file leaf-file-name="SolrTestController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/SolrTestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+            <state relative-caret-position="284">
+              <caret line="67" column="45" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3716#3731#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CmsSlideController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/CmsSlideController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1596#1611#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoodsClassController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/GoodsClassController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1217#1218#0" expanded="true" />
+                <element signature="e#1249#1250#0" expanded="true" />
+                <element signature="e#1287#1288#0" expanded="true" />
+                <element signature="e#1321#1322#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+                <element signature="e#1386#1387#0" expanded="true" />
+                <element signature="e#1425#1426#0" expanded="true" />
+                <element signature="e#1459#1460#0" expanded="true" />
+                <element signature="e#2024#2039#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,13 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/CmsSlideMapper.xml" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/FindPasswordMapper.xml" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/GoodsClassMapper.xml" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/GoodsTypeMapper.xml" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/MemberMapper.xml" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/PermissionMapper.xml" />
-        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/RoleMapper.xml" />
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreClassMapper.xml" />
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreGoodsClassMapper.xml" />
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreGradeMapper.xml" />
@@ -174,6 +150,13 @@
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/CmsArticleController.java" />
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/CmsSlideController.java" />
         <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/GoodsClassController.java" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/KindEditorController.java" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/MemberController.java" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/MessageController.java" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/PictureController.java" />
+        <option value="$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/SolrTestController.java" />
       </list>
     </option>
   </component>
@@ -194,7 +177,7 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="471" />
+    <option name="x" value="44" />
     <option name="y" value="22" />
     <option name="width" value="1240" />
     <option name="height" value="728" />
@@ -231,16 +214,6 @@
               <option name="myItemId" value="goshop-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -249,300 +222,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="goshop-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lcc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lcc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lcc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop-manager-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lcc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1014,15 +693,15 @@
       <workItem from="1486392716827" duration="1506000" />
       <workItem from="1486428299917" duration="1630000" />
       <workItem from="1486431991355" duration="32691000" />
-      <workItem from="1486641297532" duration="29646000" />
+      <workItem from="1486641297532" duration="34985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65473000" />
+    <option name="totallyTimeSpent" value="70812000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="471" y="22" width="1240" height="728" extended-state="0" />
+    <frame x="44" y="22" width="1240" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1037,7 +716,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22871453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20534223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24958263" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1076,164 +755,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/RoleMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="97" column="59" selection-start-line="97" selection-start-column="59" selection-end-line="97" selection-end-column="59" />
-          <folding>
-            <marker date="1486784345000" expanded="true" signature="1631:1744" ph="select from gs_role" />
-            <marker date="1486784345000" expanded="true" signature="1836:1896" ph="delete from " />
-            <marker date="1486784345000" expanded="true" signature="2034:2247" ph="insert into gs_role... " />
-            <marker date="1486784345000" expanded="true" signature="3571:4085" ph="update gs_ro... " />
-            <marker date="1486784345000" expanded="true" signature="4196:4424" ph="update gs_ro... " />
-            <marker date="1486784345000" expanded="true" signature="4526:4643" ph="select from gs_role" />
-            <marker date="1486784345000" expanded="true" signature="4757:5155" ph="SELECT r.*,u... gs_role" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreClassMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1111">
-          <caret line="84" column="59" selection-start-line="84" selection-start-column="59" selection-end-line="84" selection-end-column="59" />
-          <folding>
-            <marker date="1486784418000" expanded="true" signature="1182:1302" ph="select from gs_store_class" />
-            <marker date="1486784418000" expanded="true" signature="1394:1461" ph="delete from " />
-            <marker date="1486784418000" expanded="true" signature="1607:1797" ph="insert into gs_store_class... " />
-            <marker date="1486784418000" expanded="true" signature="2970:3389" ph="update gs_st... " />
-            <marker date="1486784418000" expanded="true" signature="3506:3702" ph="update gs_st... " />
-            <marker date="1486784418000" expanded="true" signature="3790:3883" ph="select from gs_store_class" />
-            <marker date="1486784418000" expanded="true" signature="4767:5306" ph="SELECT t.id gs_store_class" />
-            <marker date="1486784418000" expanded="true" signature="5360:5466" ph="update gs_st... " />
-            <marker date="1486784418000" expanded="true" signature="5520:5626" ph="update gs_st... " />
-            <marker date="1486784418000" expanded="true" signature="5742:6043" ph="select from gs_store_class" />
-            <marker date="1486784418000" expanded="true" signature="6163:6602" ph="SELECT leaf.... gs_store_class" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreGoodsClassMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="103" column="48" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
-          <folding>
-            <marker date="1486784704000" expanded="true" signature="997:1131" ph="select from gs_store_goods_class" />
-            <marker date="1486784704000" expanded="true" signature="1226:1307" ph="delete from " />
-            <marker date="1486784704000" expanded="true" signature="1416:1736" ph="insert into gs_store_goods_class... " />
-            <marker date="1486784704000" expanded="true" signature="3314:4007" ph="update gs_st... " />
-            <marker date="1486784704000" expanded="true" signature="4128:4454" ph="update gs_st... " />
-            <marker date="1486784704000" expanded="true" signature="4575:4895" ph="select from gs_store_goods_class" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreGradeMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-256">
-          <caret line="183" column="59" selection-start-line="183" selection-start-column="59" selection-end-line="183" selection-end-column="59" />
-          <folding>
-            <marker date="1486784824000" expanded="true" signature="1786:1967" ph="select , fro... " />
-            <marker date="1486784824000" expanded="true" signature="2062:2135" ph="delete from " />
-            <marker date="1486784824000" expanded="true" signature="2239:2883" ph="insert into gs_store_grade... " />
-            <marker date="1486784824000" expanded="true" signature="5703:7175" ph="update gs_st... " />
-            <marker date="1486784824000" expanded="true" signature="7300:7972" ph="update gs_st... " />
-            <marker date="1486784824000" expanded="true" signature="8088:8696" ph="update gs_st... " />
-            <marker date="1486784824000" expanded="true" signature="8778:8937" ph="select , fro... " />
-            <marker date="1486784824000" expanded="true" signature="9047:9229" ph="select , fro... " />
-            <marker date="1486784824000" expanded="true" signature="9341:9526" ph="select , fro... " />
-            <marker date="1486784824000" expanded="true" signature="9640:9841" ph="select , fro... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-pojo/src/main/java/com/lcc/goshop/manager/pojo/StoreJoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreJoinMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-601">
-          <caret line="558" column="53" selection-start-line="558" selection-start-column="53" selection-end-line="558" selection-end-column="53" />
-          <folding>
-            <marker date="1486785801000" expanded="true" signature="6017:6149" ph="select from gs_store_join" />
-            <marker date="1486785801000" expanded="true" signature="6241:6320" ph="delete from " />
-            <marker date="1486785801000" expanded="true" signature="6423:9555" ph="insert into gs_store_join... " />
-            <marker date="1486785801000" expanded="true" signature="20851:27719" ph="update gs_st... " />
-            <marker date="1486785801000" expanded="true" signature="27834:31080" ph="update gs_st... " />
-            <marker date="1486785801000" expanded="true" signature="31189:31326" ph="select from gs_store_join" />
-            <marker date="1486785801000" expanded="true" signature="31434:31569" ph="select from gs_store_join" />
-            <marker date="1486785801000" expanded="true" signature="31646:31724" ph="select from gs_store_join" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/StoreMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-871">
-          <caret line="639" column="61" selection-start-line="639" selection-start-column="61" selection-end-line="639" selection-end-column="61" />
-          <folding>
-            <marker date="1486785881000" expanded="true" signature="5674:5855" ph="select , fro... " />
-            <marker date="1486785881000" expanded="true" signature="5950:6023" ph="delete from " />
-            <marker date="1486785881000" expanded="true" signature="6131:8847" ph="insert into gs_store... " />
-            <marker date="1486785881000" expanded="true" signature="19747:26223" ph="update gs_st... " />
-            <marker date="1486785881000" expanded="true" signature="26352:29239" ph="update gs_st... " />
-            <marker date="1486785881000" expanded="true" signature="29350:31871" ph="update gs_st... " />
-            <marker date="1486785881000" expanded="true" signature="31986:32113" ph="select from gs_store" />
-            <marker date="1486785881000" expanded="true" signature="32190:32263" ph="select from gs_store" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-181">
-          <caret line="262" column="56" selection-start-line="262" selection-start-column="56" selection-end-line="262" selection-end-column="56" />
-          <folding>
-            <marker date="1486786750000" expanded="true" signature="3201:3314" ph="select from gs_user" />
-            <marker date="1486786750000" expanded="true" signature="3406:3466" ph="delete from " />
-            <marker date="1486786750000" expanded="true" signature="3604:4223" ph="insert into gs_user... " />
-            <marker date="1486786750000" expanded="true" signature="7311:8905" ph="update gs_us... " />
-            <marker date="1486786750000" expanded="true" signature="9015:9701" ph="update gs_us... " />
-            <marker date="1486786750000" expanded="true" signature="9807:9935" ph="select from gs_user" />
-            <marker date="1486786750000" expanded="true" signature="10049:10335" ph="SELECT u.*,r... gs_user" />
-            <marker date="1486786750000" expanded="true" signature="10468:10796" ph="SELECT p.* F... gs_user" />
-            <marker date="1486786750000" expanded="true" signature="10900:11002" ph="SELECT count... gs_user" />
-            <marker date="1486786750000" expanded="true" signature="11110:11799" ph="update gs_us... " />
-            <marker date="1486786750000" expanded="true" signature="11910:12132" ph="SELECT r.* F... gs_user" />
-            <marker date="1486786750000" expanded="true" signature="12209:12433" ph="SELECT count... gs_user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/UserRoleMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <marker date="1486786895000" expanded="true" signature="532:633" ph="insert into gs_user_role... " />
-            <marker date="1486786895000" expanded="true" signature="744:1233" ph="insert into gs_user_role... " />
-            <marker date="1486786895000" expanded="true" signature="1353:1473" ph="select * fro... gs_user_role" />
-            <marker date="1486786895000" expanded="true" signature="1534:1636" ph="delete from " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-service/src/main/java/com/lcc/goshop/manager/service/AdminServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="47" column="69" selection-start-line="47" selection-start-column="69" selection-end-line="47" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#789#790#0" expanded="false" />
-            <element signature="e#858#859#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-mapper/src/main/java/com/lcc/goshop/manager/mapper/AlbumPicMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1688,10 +1209,10 @@
         <state relative-caret-position="-73">
           <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3953#3968#0" expanded="true" />
-            <element signature="e#5392#5409#0" expanded="true" />
-            <element signature="e#6697#6717#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3953#3968#0" expanded="false" />
+            <element signature="e#5392#5409#0" expanded="false" />
+            <element signature="e#6697#6717#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1701,7 +1222,7 @@
         <state relative-caret-position="150">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1711,7 +1232,7 @@
         <state relative-caret-position="240">
           <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1729,7 +1250,7 @@
         <state relative-caret-position="464">
           <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1747,8 +1268,8 @@
         <state relative-caret-position="134">
           <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3716#3731#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3716#3731#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1758,18 +1279,129 @@
         <state relative-caret-position="390">
           <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1596#1611#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1596#1611#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/GoodsClassController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="315">
+          <caret line="101" column="31" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#351#352#0" expanded="false" />
+            <element signature="e#385#386#0" expanded="false" />
+            <element signature="e#443#444#0" expanded="false" />
+            <element signature="e#478#479#0" expanded="false" />
+            <element signature="e#568#569#0" expanded="false" />
+            <element signature="e#605#606#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/KindEditorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.jar!/org/springframework/util/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding>
+            <element signature="e#1690#1691#0" expanded="true" />
+            <element signature="e#1739#1740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2097#2098#0" expanded="false" />
+            <element signature="e#2128#2129#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/MessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-parent/goshop-commons/src/main/java/com/lcc/goshop/commons/utils/ImageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="259" column="14" selection-start-line="259" selection-start-column="14" selection-end-line="259" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/PictureController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1533#1548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-parent/goshop-commons-solr/src/main/java/com/lcc/goshop/solr/service/SolrService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goshop-manager/goshop-manager-web/src/main/java/com/lcc/goshop/manager/controller/SolrTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="67" column="45" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1217#1218#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
+            <element signature="e#1321#1322#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+            <element signature="e#1459#1460#0" expanded="true" />
+            <element signature="e#2024#2039#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1826,7 +1458,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>goshop-commons</last-edited>
+          <last-edited>goshop-commons-solr</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
