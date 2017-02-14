@@ -11,7 +11,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="goshop-portal-interface" />
+    <orderEntry type="module" module-name="goshop-manager-interface" />
+    <orderEntry type="module" module-name="goshop-manager-mapper" />
+    <orderEntry type="module" module-name="goshop-manager-pojo" />
+    <orderEntry type="module" module-name="goshop-manager-security" />
     <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
     <orderEntry type="library" name="Maven: asm:asm:3.3" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:druid:1.0.9" level="project" />
@@ -129,9 +132,7 @@
     <orderEntry type="library" name="Maven: xalan:serializer:2.7.1" level="project" />
     <orderEntry type="library" name="Maven: xalan:xalan:2.7.1" level="project" />
     <orderEntry type="library" name="Maven: xml-resolver:xml-resolver:1.2" level="project" />
-    <orderEntry type="module" module-name="goshop-manager-mapper" />
-    <orderEntry type="module" module-name="goshop-manager-pojo" />
+    <orderEntry type="module" module-name="goshop-portal-interface" />
     <orderEntry type="module" module-name="goshop-commons" />
-    <orderEntry type="module" module-name="goshop-manager-security" />
   </component>
 </module>
