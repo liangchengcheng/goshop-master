@@ -130,5 +130,9 @@
     <orderEntry type="library" name="Maven: xml-resolver:xml-resolver:1.2" level="project" />
     <orderEntry type="module" module-name="goshop-commons-context" />
     <orderEntry type="module" module-name="goshop-commons" />
+    <orderEntry type="module" module-name="goshop-commons-attachment" />
+    <orderEntry type="module" module-name="goshop-portal-interface" />
+    <orderEntry type="module" module-name="goshop-manager-security" />
+    <orderEntry type="module" module-name="goshop-manager-pojo" />
   </component>
 </module>
