@@ -1,22 +1,19 @@
 package com.lcc.goshop.wechat.menu;
 
-import com.goshop.wechat.core.CommonUtil;
-import com.goshop.wechat.core.MenuUtil;
-import com.goshop.wechat.core.Token;
+import com.lcc.goshop.wechat.core.CommonUtil;
+import com.lcc.goshop.wechat.core.MenuUtil;
+import com.lcc.goshop.wechat.core.Token;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 /**
  * 菜单管理器类
- *
- * @author liufeng
- * @date 2013-10-17
  */
 public class MenuManager {
     private static Logger log = LoggerFactory.getLogger(MenuManager.class);
 
     /**
      * 定义菜单结构
-     *
-     * @return
      */
     public static Menu getMenu() {
         ClickButton btn11 = new ClickButton();
@@ -94,7 +91,6 @@ public class MenuManager {
         if (null != token) {
             // 创建菜单
             boolean result = MenuUtil.createMenu(getMenu(), token.getAccessToken());
-
             // 判断菜单创建结果
             if (result)
                 log.info("菜单创建成功！");

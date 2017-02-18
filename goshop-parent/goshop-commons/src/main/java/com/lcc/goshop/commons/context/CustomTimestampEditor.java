@@ -38,11 +38,11 @@ public class CustomTimestampEditor extends PropertyEditorSupport {
                         "Could not parse date: it is not exactly"
                                 + this.exactDateLength + "characters long");
             }
+
             try {
                 setValue(new Timestamp(this.dateFormat.parse(text).getTime()));
             } catch (ParseException ex) {
-                throw new IllegalArgumentException("Could not parse date: "
-                        + ex.getMessage(), ex);
+                throw new IllegalArgumentException("Could not parse date: " + ex.getMessage(), ex);
             }
         }
     }

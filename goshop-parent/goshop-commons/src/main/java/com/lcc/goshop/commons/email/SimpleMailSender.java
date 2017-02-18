@@ -19,6 +19,7 @@ public class SimpleMailSender {
      * 发送邮件的props文件
      */
     private final transient Properties props = System.getProperties();
+
     /**
      * 邮件服务器登录验证
      */
@@ -33,8 +34,8 @@ public class SimpleMailSender {
      * 初始化邮件发送器
      *
      * @param smtpHostName SMTP邮件服务器地址
-     * @param username     发送邮件的用户名(地址)
-     * @param password     发送邮件的密码
+     * @param username 发送邮件的用户名(地址)
+     * @param password 发送邮件的密码
      */
     public SimpleMailSender(final String smtpHostName, final String username,
                             final String password) {
@@ -48,7 +49,7 @@ public class SimpleMailSender {
      * @param password 发送邮件的密码
      */
     public SimpleMailSender(final String username, final String password) {
-        //通过邮箱地址解析出smtp服务器，对大多数邮箱都管用
+        //通过邮箱地址解析出SMTP服务器，对大多数邮箱都管用
         final String smtpHostName = "smtp." + username.split("@")[1];
         init(username, password, smtpHostName);
     }
@@ -56,15 +57,15 @@ public class SimpleMailSender {
     /**
      * 初始化
      *
-     * @param username     发送邮件的用户名(地址)
-     * @param password     密码
+     * @param username 发送邮件的用户名(地址)
+     * @param password 密码
      * @param smtpHostName SMTP主机地址
      */
     private void init(String username, String password, String smtpHostName) {
         // 初始化props
         props.put("mail.smtp.auth", "true");
         props.put("mail.smtp.host", smtpHostName);
-        // 验证
+        // 验证用户名和密码
         authenticator = new MailAuthenticator(username, password);
         // 创建session
         session = Session.getInstance(props, authenticator);
@@ -99,10 +100,10 @@ public class SimpleMailSender {
      * 群发邮件
      *
      * @param recipients 收件人们
-     * @param subject    主题
-     * @param content    内容
-     * @throws AddressException
-     * @throws MessagingException
+     * @param subject 主题
+     * @param content 内容
+     * @throws AddressException 地址异常
+     * @throws MessagingException 消息异常
      */
     public void send(List<String> recipients, String subject, Object content)
             throws AddressException, MessagingException {
@@ -116,6 +117,7 @@ public class SimpleMailSender {
         for (int i = 0; i < num; i++) {
             addresses[i] = new InternetAddress(recipients.get(i));
         }
+
         message.setRecipients(Message.RecipientType.TO, addresses);
         // 设置主题
         message.setSubject(subject);
@@ -129,9 +131,9 @@ public class SimpleMailSender {
      * 发送邮件
      *
      * @param recipient 收件人邮箱地址
-     * @param mail      邮件对象
-     * @throws AddressException
-     * @throws MessagingException
+     * @param mail 邮件对象
+     * @throws AddressException 地址异常
+     * @throws MessagingException 消息异常
      */
     public void send(String recipient, SimpleMail mail)
             throws AddressException, MessagingException {
@@ -143,8 +145,8 @@ public class SimpleMailSender {
      *
      * @param recipients 收件人们
      * @param mail       邮件对象
-     * @throws AddressException
-     * @throws MessagingException
+     * @throws AddressException 地址异常
+     * @throws MessagingException 消息异常
      */
     public void send(List<String> recipients, SimpleMail mail)
             throws AddressException, MessagingException {
